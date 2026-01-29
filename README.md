@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**MigraalPL/MigraalPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Migraal, a Full Stack Website Developer based in the Netherlands.
 
-Here are some ideas to get you started:
+I mostly work on frontend development using React, Tailwind, and other modern tools. For UI, I like to use Figma to gather inspiration or sketch ideas, so I can build projects that not only work well but also look great.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Story 🔥
+
+I started coding about two years ago when I was 13. Back then, I began making websites using HTML and CSS, and I immediately fell in love with it. The more I practiced, the more I wanted to learn, which is why I’m now a Full Stack Developer. I’m still learning TypeScript and backend technologies to level up even further.
+
+My goal is to start my own business when I’m 16 or older in the Netherlands, you’re allowed to run a business on your own at that age. I’m also really interested in learning game development because creating games seems like an amazing way to combine creativity and coding.
+
+---
+
+## Tools & Tech 💡
+
+- React, Tailwind CSS
+- Express, NextJS
+- Figma For UI, Motion For Animation
+
+---
+
+### About me 
+
+- I have one Dog.
+- I love gaming with my friends.
+- A big Harry and Lord of the rings Fan.
+- I workout in the gym and my second sport is kickbox.
+

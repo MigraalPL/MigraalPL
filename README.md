@@ -20,7 +20,7 @@ My goal is to start my own business when I’m 16 or older in the Netherlands, y
 
 ---
 
-### About me 
+### About me 🌴
 
 - I have one Dog.
 - I love gaming with my friends.

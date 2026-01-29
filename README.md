@@ -20,10 +20,11 @@ My goal is to start my own business when I’m 16 or older in the Netherlands, y
 
 ---
 
-### About me 🌴
+### About Me 🌴
 
-- I have one Dog.
-- I love gaming with my friends.
-- A big Harry and Lord of the rings Fan.
-- I workout in the gym and my second sport is kickbox.
+- I have a dog 🐶.  
+- I love gaming with my friends 🎮.  
+- Huge fan of Harry Potter and Lord of the Rings ✨.  
+- I work out at the gym, and my second sport is kickboxing 🥊.  
+- I speak four languages: fluent in Polish, Dutch, and English, and currently learning German in school. 📍
 
